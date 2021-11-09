@@ -3,7 +3,7 @@
     <Navbar />
   </div>
 
-  <main class="content mt-4 shadows-sm p-0 ">
+  <main class="content mt-4 shadows-sm">
     <div class="bg-secondary text-white">
         <h2 class="p-3">Chat Group</h2>
     </div>
@@ -14,7 +14,7 @@
   </main>
 
   <footer>
-      <Footer />
+      <!-- <Footer /> -->
   </footer>
 </template>
 
