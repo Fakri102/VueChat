@@ -1,5 +1,7 @@
 # vuechat
 
+build  with firebase and vue.
+
 ## Project setup
 ```
 npm install
